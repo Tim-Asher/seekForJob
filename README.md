@@ -8,7 +8,7 @@
 
 ### Project Description
 
-SeekForJob is a job-seeking and posting platform designed to connect job seekers with employers efficiently. The platform allows users to post job openings, search for job opportunities, and apply for competitions by submitting videos. SeekForJob provides an intuitive user experience for both job seekers and employers while offering a robust backend system for managing users, job postings, and applications.
+SeekForJob is a job-seeking and posting platform designed to connect job seekers with employers efficiently. The platform allows employer to post job openings and search employees, and for users to  search for job opportunities, and apply for a job by submitting Cv. SeekForJob provides an intuitive user experience for both job seekers and employers while offering a robust backend system for managing users, job postings, and applications.
 
 ## Technologies Used
 
